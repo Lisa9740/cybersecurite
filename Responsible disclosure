@@ -7,3 +7,11 @@ Responsible disclosure is a process that allows security researchers to safely r
 
 La divulgation responsable est semblable à une divulgation complète, 
 avec l'ajout que toutes les parties prenantes acceptent de laisser un délai avant la divulgation pour que la vulnérabilité soit corrigée avant sa divulgation.
+
+Voici quelques vulnérabilités de sécurité auxquelles le principe de divulgation responsable a été appliquée et le temps négocié avant la divulgation :
+
+l'empoisonnement du cache DNS découvert par Dan Kaminsky, 5 mois;
+la vulnérabilité des cartes Mifare découverte par l'Université Radboud de Nimègue, 6 mois ;
+la vulnérabilité dans la sécurité du métro de Boston découverte par des étudiants du Massachusetts Institute of Technology, 5 mois ;
+la vulnérabilité de MD5 qui permettait de créer de faux certificats de sécurité au moyen d'attaques de collisions, 1 semaine ;
+la vulnérabilité des cartes-cadeaux de Starbucks à une situation de compétition, 10 jours.
