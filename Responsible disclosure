@@ -4,3 +4,6 @@
 -->Vulnerability disclosure is the practice of reporting security flaws in computer software or hardware.
 
 Responsible disclosure is a process that allows security researchers to safely report found vulnerabilities to your team.
+
+La divulgation responsable est semblable à une divulgation complète, 
+avec l'ajout que toutes les parties prenantes acceptent de laisser un délai avant la divulgation pour que la vulnérabilité soit corrigée avant sa divulgation.
